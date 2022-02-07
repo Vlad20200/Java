@@ -12,7 +12,7 @@ public class Main {
                 "stand up eight");*/
 
         //EX2
-        /*Scanner numb = new Scanner(System.in);
+        Scanner numb = new Scanner(System.in);
         System.out.print("Input a number: ");
         int num = numb.nextInt();
         System.out.print("Input a number2: ");
@@ -26,7 +26,7 @@ public class Main {
         }
         else {
             System.out.print("Error");
-        }*/
+        }
 
         //EX3
         /*Scanner numb = new Scanner(System.in);
